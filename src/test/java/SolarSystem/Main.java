@@ -13,6 +13,5 @@ public class Main {
         Sun.Name="Hasib";
         Sun.Tem="20";
         Sun.Color="Blue";
-
     }
 }
